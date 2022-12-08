@@ -1,7 +1,7 @@
 .expenseList {
     align-content: space-around;
     display: flex;
-    align-items: center;
+    align-items: left;
     text-align: center;
     flex-wrap: wrap;
     justify-content: flex-start ;
