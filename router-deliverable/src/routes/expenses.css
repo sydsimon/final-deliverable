@@ -1,0 +1,24 @@
+.expenseList {
+    align-content: space-around;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: flex-start ;
+    background-color: gray;
+}
+
+.Expense {
+    align-content: center;
+    left: 30;
+    background: white;
+}
+
+.links {
+    color: #4d593f;
+}
+
+.search-box {
+    width: 300px;
+    height: 20px;
+}
