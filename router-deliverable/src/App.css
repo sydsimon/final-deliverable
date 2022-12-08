@@ -13,15 +13,33 @@
   }
 }
 
+.flexbox-container {
+  align-content: center;
+}
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  border: 3px solid black;
+  min-height: 10vh;
+  align-self: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+}
+
+.header {
+  text-align: center;
+  color: #0e4e78;
+}
+
+.header2 {
+  text-align: center;
+  color: #1c518e;
+  min-height: 20vh;
+  font-size: 18px
+}
+
+.links {
+  text-align: left;
+  
 }
 
 .App-link {
